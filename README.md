@@ -4,13 +4,13 @@ Welcome to the Pong game JavaScript implementation repository! This project prov
 
 ## How to Play
 
-Pong is a two-player game where each player controls a paddle. The objective is to hit the ball past the opponent's paddle to score a point. The first player to reach a certain number of points wins the game.
+Pong is a one-player game where player controls a paddle. The objective is to hit the ball past the opponent's paddle to score a point. The first player to reach a certain number of points wins the game.
 
 ### Controls
 
 - Player 1 (Down Paddle):
-  - Move Right: Press the 'Right Arrow' key
-  - Move Left: Press the 'Left Arrow' key
+  - Move Right: Move your mouse Right to move the paddle Right.
+  - Move Left: Move your mouse Left to move the paddle Left.
 
 - Player 2 - Computer (Up Paddle)
 
