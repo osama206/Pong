@@ -21,7 +21,7 @@ To run the game locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/osama206/Pong.git
+   git clone https://github.com/osama206/pong.git
    ```
 
 2. Open the `index.html` file in your web browser.
